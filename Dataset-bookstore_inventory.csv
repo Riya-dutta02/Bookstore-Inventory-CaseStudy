@@ -1,0 +1,81 @@
+book_id,title,author,genre,price,pages,publication_year,rating,stock,language,format,publisher,isbn,added_date
+1,The Wandering Forest,Xander Martinez,Fantasy,17.28,854,1986,3.7,22,Italian,Paperback,,3389083863794,2020-01-27
+2,The Broken Echoes,Kevin Martinez,Mystery,16.84,881,2001,1.4,91,French,eBook,RiverRun Publishing,7816184959310,2022-07-22
+3,The Forgotten Sky,Hannah Williams,Horror,20.29,750,2003,1.7,68,English,eBook,Summit Press,3276483503056,2023-01-01
+4,The Hidden Dreams,Sam Wilson,Fantasy,41.05,505,2021,2.8,63,Italian,eBook,RiverRun Publishing,6965328710122,2024-09-25
+5,The Gentle Sky,Mike Thomas,Self-Help,59.79,641,1996,4.9,2,English,eBook,Stonebridge Media,5146270482814,2025-09-10
+6,The Gentle Dreams,Edward Anderson,Mystery,34.67,897,2013,4.7,125,English,Hardcover,RiverRun Publishing,4303911718227,2021-11-07
+7,The Midnight Waves,Tina Taylor,Fantasy,56.09,873,2024,1.8,95,German,eBook,Aurora House,3150983930103,2020-10-03
+8,The Crimson Storm,Charlie Martin,Fantasy,20.32,597,1993,3.2,146,Italian,Paperback,Northwind Books,6311656670106,2023-10-21
+9,The Wandering Horizons,George Miller,History,29.67,532,1991,2.1,19,German,eBook,,8013267736026,2020-01-09
+10,The Lonely Voices,Zane Moore,Sci-Fi,28.27,848,2015,3.6,48,French,Hardcover,BlueOak Press,8050097882081,2022-01-31
+11,The Hidden Tides,Charlie Davis,Horror,11.59,683,1995,,20,German,eBook,Stonebridge Media,5435346247510,2025-02-20
+12,The Gentle Stars,Diana Brown,History,16.72,371,1988,4.7,62,French,Paperback,Northwind Books,8498084124118,2021-09-28
+13,The Midnight Paths,Tina Miller,Romance,16.2,749,1996,3.0,13,English,eBook,Aurora House,0052427868011,2021-09-02
+14,The Fierce Empire,Laura Perez,History,13.15,230,1982,2.2,10,French,Hardcover,Summit Press,1586923226025,2024-08-13
+15,The Fading Voices,Fiona Williams,Horror,52.97,581,1994,1.8,89,French,Hardcover,,3654145868501,2022-12-05
+16,The Broken Stars,Ian Johnson,Non-Fiction,37.81,453,2000,2.7,29,German,eBook,Northwind Books,6088356159514,2025-09-08
+17,The Forgotten Echoes,Kevin Thomas,Sci-Fi,35.49,296,2006,3.7,44,Italian,eBook,RiverRun Publishing,0443699577738,2025-04-22
+18,The Broken Sky,Jane Martin,Self-Help,23.44,869,1995,3.7,50,Spanish,Hardcover,BlueOak Press,7917693676320,2021-03-12
+19,The Brave Horizons,Fiona Martin,Biography,7.76,355,1987,2.8,135,Italian,eBook,RiverRun Publishing,7986872774348,2025-06-07
+20,The Fading Voices,Oscar Brown,Sci-Fi,17.9,443,2000,,38,Spanish,Paperback,Summit Press,3166587603669,2020-03-21
+21,The Clever Shadows,Paula Smith,Romance,21.42,499,2006,3.2,56,German,Hardcover,RiverRun Publishing,0656272980699,2020-04-21
+22,The Hidden Echoes,Edward Moore,Mystery,7.77,488,2000,1.8,97,French,Paperback,RiverRun Publishing,7080531003309,2021-09-16
+23,The Fading City,Paula Williams,Self-Help,57.13,576,2024,2.0,29,Spanish,Paperback,BlueOak Press,4966319314919,2020-06-17
+24,The Shattered Hearts,Nina Anderson,Non-Fiction,32.83,449,1980,4.4,27,German,Paperback,Summit Press,7262849877694,2023-08-13
+25,The Fading Sky,Ian Moore,Fantasy,46.28,683,2019,3.7,126,French,Hardcover,Aurora House,4549480831367,2022-09-11
+26,The Secret Winds,Oscar Smith,Non-Fiction,21.18,514,2024,2.0,94,German,eBook,Stonebridge Media,8557444313518,2022-01-28
+27,The Golden Dreams,Xander Jackson,Sci-Fi,44.85,878,2013,3.4,49,French,Hardcover,RiverRun Publishing,0824008427109,2023-03-10
+28,The Secret Winds,Oscar Wilson,Mystery,58.1,358,2010,,125,English,eBook,Summit Press,2294131869993,2025-11-10
+29,The Lonely Flame,Oscar Lopez,Self-Help,59.45,412,2016,3.5,25,Spanish,eBook,Northwind Books,1232812067974,2020-05-13
+30,The Fading Paths,Wendy Lopez,Biography,8.91,339,1996,4.2,50,German,Hardcover,Stonebridge Media,2421024994717,2023-05-30
+31,The Lonely Voices,Quinn Lee,Biography,29.08,712,1982,4.6,64,English,Hardcover,Northwind Books,9904902787429,2024-11-20
+32,The Secret Sky,Paula Anderson,Horror,23.33,786,1986,4.4,126,French,eBook,Aurora House,8071545168087,2024-08-19
+33,The Crimson Dreams,Quinn Anderson,Self-Help,46.6,740,2008,4.0,140,Spanish,Paperback,Aurora House,7109324808613,2021-04-09
+34,The Curious River,Uma Jones,Biography,56.3,398,2012,3.8,123,German,Hardcover,Aurora House,6398214658404,2023-05-07
+35,The Clever Stars,Victor Jackson,Mystery,29.56,595,2002,2.3,96,German,Paperback,Northwind Books,3963605766270,2021-06-01
+36,The Ancient Stars,Kevin Williams,Biography,10.48,567,1980,3.9,39,English,Paperback,RiverRun Publishing,6158657809134,2022-07-20
+37,The Hidden Echoes,Diana Williams,Biography,14.15,406,1981,1.2,75,French,Paperback,Aurora House,8692221969379,2021-08-09
+38,The Fading Flame,Uma Martinez,Biography,19.04,109,2009,4.6,40,English,Paperback,RiverRun Publishing,4647436713695,2023-04-26
+39,The Forgotten Forest,Victor Thomas,Sci-Fi,5.45,802,1983,4.6,73,Spanish,eBook,RiverRun Publishing,3942104709521,2023-04-23
+40,The Radiant Echoes,Fiona Miller,Mystery,48.26,474,2013,3.0,42,French,Paperback,RiverRun Publishing,5171236851604,2021-05-21
+41,The Curious Light,Victor Martinez,Self-Help,25.96,753,2003,1.4,6,Italian,eBook,RiverRun Publishing,3174612004711,2022-08-19
+42,The Fierce City,Mike Moore,Romance,41.88,860,2024,4.8,39,German,eBook,BlueOak Press,9640537735158,2024-01-09
+43,The Crimson Shadows,Ian Miller,Non-Fiction,57.2,565,1985,3.7,5,English,Paperback,Northwind Books,9318393352904,2021-08-15
+44,The Eternal Hearts,Ian Garcia,Non-Fiction,41.36,126,1988,1.1,60,Italian,Paperback,BlueOak Press,0268117758917,2025-08-25
+45,The Fading Tides,Bob Martin,Sci-Fi,30.19,131,1983,5.0,109,English,Paperback,Summit Press,1159212499856,2025-12-13
+46,The Forgotten Flame,Quinn Thompson,Horror,10.45,818,1987,4.4,141,Spanish,Paperback,Aurora House,6576615654527,2020-10-01
+47,The Hidden Sky,Charlie Taylor,Non-Fiction,45.95,481,1988,3.2,143,Italian,Paperback,Summit Press,5604945198327,2022-07-07
+48,The Wandering Light,Rachel Anderson,Non-Fiction,46.94,687,1994,4.2,142,English,eBook,Summit Press,4024455022961,2021-08-04
+49,The Silent Sky,Xander Martin,Fantasy,25.69,564,2001,1.6,83,Italian,eBook,BlueOak Press,2290147679764,2022-06-01
+50,The Ancient River,Laura Taylor,Non-Fiction,20.58,794,2017,2.9,11,Spanish,Paperback,,3432445107622,2024-04-06
+51,The Fierce Horizons,Quinn Lee,Romance,8.96,859,1982,2.7,19,French,eBook,Aurora House,6416052975161,2022-09-23
+52,The Brave Stars,Mike Martin,Non-Fiction,26.77,417,2001,1.9,19,Italian,eBook,BlueOak Press,3552312432921,2021-12-26
+53,The Secret Flame,Yara Perez,Self-Help,29.69,678,2021,3.5,80,Spanish,Paperback,BlueOak Press,4490581477005,2023-03-21
+54,The Hidden Sky,Tina Thompson,History,26.15,694,2015,4.8,10,German,eBook,Summit Press,9782071518203,2024-11-28
+55,The Curious Waves,Quinn Thompson,Mystery,25.01,389,2004,2.6,13,French,Hardcover,,6449251925462,2020-12-13
+56,The Forgotten Hearts,Mike Wilson,Mystery,41.86,856,2023,,108,Italian,Paperback,BlueOak Press,2357332214188,2025-11-26
+57,The Crimson Storm,Yara Thompson,Mystery,37.85,257,1990,1.7,42,German,Hardcover,Aurora House,3794738347359,2024-12-09
+58,The Curious Paths,Yara Thomas,History,34.01,265,1992,,64,English,eBook,Aurora House,8181412478261,2022-06-28
+59,The Curious Light,Alice Taylor,Fiction,26.8,482,1995,,57,English,Paperback,BlueOak Press,5220472779010,2022-11-14
+60,The Golden City,Rachel Thompson,History,28.28,894,1998,,61,German,eBook,Stonebridge Media,1798089324609,2023-12-16
+61,The Fading Stars,Nina Garcia,Non-Fiction,33.79,469,1984,4.8,129,Italian,Hardcover,Aurora House,0654051531952,2020-06-30
+62,The Shattered Hearts,Kevin Garcia,Biography,58.95,590,2020,,117,English,Paperback,,3054868740345,2020-07-14
+63,The Radiant Voices,Diana Anderson,Horror,53.92,861,2008,4.6,47,German,eBook,Aurora House,8416169284511,2023-09-05
+64,The Forgotten Paths,Oscar Thompson,Horror,14.17,554,2002,2.8,90,Italian,Paperback,RiverRun Publishing,0165820297021,2022-08-24
+65,The Shattered Light,Mike Perez,Fiction,38.28,795,2008,4.8,19,Italian,Hardcover,Stonebridge Media,5431027868144,2025-01-01
+66,The Golden Tides,Jane Jackson,Fantasy,11.75,175,2008,1.7,22,French,eBook,RiverRun Publishing,8844225831323,2025-07-16
+67,The Silent Light,Rachel Perez,Romance,30.71,664,1988,,79,German,eBook,Summit Press,6691251778528,2022-01-15
+68,The Eternal Echoes,Quinn Johnson,Non-Fiction,33.5,411,1990,1.6,57,French,eBook,RiverRun Publishing,4384249818299,2021-09-23
+69,The Broken Tides,Xander Thompson,Romance,51.34,677,1982,,11,Italian,Paperback,Summit Press,9690784473647,2020-10-25
+70,The Crimson Garden,Oscar Taylor,Biography,30.54,448,2018,1.6,81,French,Paperback,Northwind Books,8815371473210,2023-04-03
+71,The Lonely Tides,Nina Davis,Mystery,49.74,691,2000,1.8,131,German,Paperback,RiverRun Publishing,1687339500479,2025-04-11
+72,The Forgotten Hearts,Alice Williams,Horror,12.37,370,2003,4.1,102,English,eBook,Stonebridge Media,8416878499121,2024-06-01
+73,The Shattered Storm,Rachel Anderson,Mystery,15.95,621,2005,,35,French,Paperback,Stonebridge Media,9825952694958,2025-09-18
+74,The Fierce Winds,Wendy Perez,Sci-Fi,31.12,117,2003,,106,Italian,Paperback,Summit Press,0974993097289,2024-04-06
+75,The Eternal Horizons,Bob Perez,Non-Fiction,15.49,551,2000,2.7,52,German,eBook,Stonebridge Media,0283857865278,2023-11-03
+76,The Fierce Light,Victor Martinez,Self-Help,31.63,352,1997,3.2,76,French,eBook,Northwind Books,7575844198665,2021-08-22
+77,The Forgotten Empire,Jane Brown,Romance,55.82,771,1996,4.0,137,French,eBook,Summit Press,1993308330165,2025-04-18
+78,The Wandering City,Alice Lee,Mystery,27.38,587,2010,3.6,73,French,Paperback,,1938026206724,2020-06-02
+79,The Silent Paths,Sam Thompson,Non-Fiction,56.07,443,1998,2.8,134,German,Hardcover,Stonebridge Media,3152742054932,2024-07-18
+80,The Brave Waves,Kevin Brown,Horror,41.81,289,1988,2.9,1,French,Paperback,Northwind Books,4549904530174,2021-10-16
